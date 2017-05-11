@@ -1,0 +1,25 @@
+{
+    "name": "blacktools/metabot",
+    "type": "library",
+    "description": "Php code that code php code.",
+    "version": "1.0.0",
+    "keywords": ["1.0.0","helpers","metaprogramming"],
+    "homepage": "https://github.com/henriquefernandez/PhpMetabot",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "authors": [
+        {
+            "name": "Henrique Fernandez Teixeira",
+            "email": "hriqueft@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Blacktools\\Metabot\\Base\\" : "src/"
+        }
+    }
+}
