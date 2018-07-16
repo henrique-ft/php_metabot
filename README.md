@@ -1,4 +1,4 @@
-## Abouts
+## About
 
 PhpMetaBot is a very minimal framework that makes easy to write "php code from php code". It can be a lot useful to make CLI commands that generate scaffold codes from different needs. Let your creativity fly. Feel free to fork and do whatever you want. I done it just for fun.
 
